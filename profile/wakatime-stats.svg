@@ -129,7 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="282.44100000000003"
+            width="282.8595"
             height="8"
             fill="#3572A5"
           />
@@ -137,9 +137,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="282.44100000000003"
+            x="282.8595"
             y="0"
-            width="65.751"
+            width="65.565"
             height="8"
             fill="#858585"
           />
@@ -147,9 +147,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="348.192"
+            x="348.4245"
             y="0"
-            width="45.3375"
+            width="45.244499999999995"
             height="8"
             fill="#858585"
           />
@@ -157,7 +157,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="393.5295"
+            x="393.66900000000004"
             y="0"
             width="29.2485"
             height="8"
@@ -167,7 +167,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="422.77799999999996"
+            x="422.9175"
             y="0"
             width="21.111"
             height="8"
@@ -177,9 +177,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="443.88899999999995"
+            x="444.0285"
             y="0"
-            width="8.4165"
+            width="8.277000000000001"
             height="8"
             fill="#858585"
           />
@@ -187,7 +187,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="452.30549999999994"
+            x="452.3055"
             y="0"
             width="7.6725"
             height="8"
@@ -197,9 +197,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="459.97799999999995"
+            x="459.978"
             y="0"
-            width="6.882000000000001"
+            width="6.9285000000000005"
             height="8"
             fill="#e38c00"
           />
@@ -208,28 +208,28 @@
     <g transform="translate(25, 25)">
       <circle cx="5" cy="6" r="5" fill="#3572A5" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Python - 887 hrs 8 mins
+        Python - 888 hrs 26 mins
       </text>
     </g>
   
     <g transform="translate(230, 25)">
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Terraform - 206 hrs 37 mins
+        Terraform - 205 hrs 53 mins
       </text>
     </g>
   
     <g transform="translate(25, 50)">
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Other - 142 hrs 23 mins
+        Other - 142 hrs 9 mins
       </text>
     </g>
   
     <g transform="translate(230, 50)">
       <circle cx="5" cy="6" r="5" fill="#cb171e" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        YAML - 91 hrs 51 mins
+        YAML - 91 hrs 48 mins
       </text>
     </g>
   
@@ -243,21 +243,21 @@
     <g transform="translate(230, 75)">
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        HTTP Request - 26 hrs 20 mins
+        HTTP Request - 26 hrs 1 min
       </text>
     </g>
   
     <g transform="translate(25, 100)">
       <circle cx="5" cy="6" r="5" fill="#f1e05a" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JavaScript - 24 hrs 3 mins
+        JavaScript - 24 hrs 7 mins
       </text>
     </g>
   
     <g transform="translate(230, 100)">
       <circle cx="5" cy="6" r="5" fill="#e38c00" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        SQL - 21 hrs 34 mins
+        SQL - 21 hrs 48 mins
       </text>
     </g>
   
